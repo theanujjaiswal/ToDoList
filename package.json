@@ -1,0 +1,20 @@
+{
+  "name": "nodews",
+  "version": "1.0.0",
+  "description": "This my first personally coded without copied project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "list"
+  ],
+  "author": "Anuj Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  }
+}
